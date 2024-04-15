@@ -1,6 +1,6 @@
 # to-do-list
 
-This program allow the user to add to do tasks to my list. It can be removed or added.
+This program allows the user to add to do tasks to a list. Tasks can be removed or added as the user wishes.
 
 ## Recommended IDE Setup
 
