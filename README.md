@@ -1,6 +1,6 @@
 # to-do-list
 
-This template should help get you started developing with Vue 3 in Vite.
+This program allow the user to add to do tasks to my list. It can be removed or added.
 
 ## Recommended IDE Setup
 
